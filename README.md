@@ -24,10 +24,10 @@ The script also includes a fun loading animation to make it more interactive.
    cd calculator/
 2. Make the script executable:
    ```sh
-   chmod +x calculator.sh
+   chmod +x calculatrice.sh
 3. Run the script:
    ```sh
-   ./calculator.sh
+   ./calculatrice.sh
 4.Follow the prompts:
 
    *) Enter the first and second numbers.

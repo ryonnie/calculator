@@ -21,7 +21,7 @@ The script also includes a fun loading animation to make it more interactive.
 1. Clone the repository:
    ```sh
    git clone https://github.com/ryonnie/calculator.git
-   cd ryonnies-calculator
+   cd calculator/
 2. Make the script executable:
    ```sh
    chmod +x calculator.sh
